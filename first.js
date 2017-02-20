@@ -1,7 +1,10 @@
 // var isBool:boolean = true;
 // console.log(isBool);
-var cat = 'Russell pie', cuteness = 5000, cute = true;
-function speak(pet, cuteness) {
-    console.log("Our " + pet + " has " + cuteness + " cute!");
+function speak(pet) {
+    console.log("Our cat " + pet.name + " is " + pet.cuteness + " cute!");
 }
-speak(cat, cuteness);
+var Florable = {
+    name: "Flora",
+    cuteness: 5000
+};
+speak(Florable);
