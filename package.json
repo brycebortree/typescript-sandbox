@@ -1,0 +1,23 @@
+{
+  "name": "typescript-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class.js",
+  "dependencies": {
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brytree/typescript-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brytree/typescript-sandbox/issues"
+  },
+  "homepage": "https://github.com/brytree/typescript-sandbox#readme"
+}
